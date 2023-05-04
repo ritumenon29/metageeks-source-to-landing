@@ -1,5 +1,6 @@
 import urllib.request
 import json
+import json
 import boto3
 import pymysql
 from datetime import date
